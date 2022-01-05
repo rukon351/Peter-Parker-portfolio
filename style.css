@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.head-section{
+    display: flex;
+    /* margin-bottom: 30px; */
+}
+h1{
+    font-size: 40px;
+}
+.half-width{
+    width: 50%;
+    /* padding: 10px; */
+    padding-left: 50px;
+}
+.span-color{
+    color: #8845F4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contact-me-btn{
+    background-color: #8845F4;
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 20%;
+}
+
+/* ------dream section--------- */
+
+.dream-section{
+    display: flex;
+}
+
+/* -----------experience-section------*/
+
+.experience-section{
+    display: flex;
+}
+.color-p{
+    color: #8845F4;
+}
+
+.sunar-bangla h2{
+    color: red;
+   padding: 70px;
+}
+
+/* ---------------footer section---------- */
+
+footer{
+    color: rgb(0, 82, 54);
+    text-align: center;
+}
